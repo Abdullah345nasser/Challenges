@@ -1,0 +1,14 @@
+C:\Users\Abdullah\source\repos\ConsoleApp1\CarpetChallenge\bin\Debug\net8.0\CarpetChallenge.exe
+C:\Users\Abdullah\source\repos\ConsoleApp1\CarpetChallenge\bin\Debug\net8.0\CarpetChallenge.deps.json
+C:\Users\Abdullah\source\repos\ConsoleApp1\CarpetChallenge\bin\Debug\net8.0\CarpetChallenge.runtimeconfig.json
+C:\Users\Abdullah\source\repos\ConsoleApp1\CarpetChallenge\bin\Debug\net8.0\CarpetChallenge.dll
+C:\Users\Abdullah\source\repos\ConsoleApp1\CarpetChallenge\bin\Debug\net8.0\CarpetChallenge.pdb
+C:\Users\Abdullah\source\repos\ConsoleApp1\CarpetChallenge\obj\Debug\net8.0\CarpetChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdullah\source\repos\ConsoleApp1\CarpetChallenge\obj\Debug\net8.0\CarpetChallenge.AssemblyInfoInputs.cache
+C:\Users\Abdullah\source\repos\ConsoleApp1\CarpetChallenge\obj\Debug\net8.0\CarpetChallenge.AssemblyInfo.cs
+C:\Users\Abdullah\source\repos\ConsoleApp1\CarpetChallenge\obj\Debug\net8.0\CarpetChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah\source\repos\ConsoleApp1\CarpetChallenge\obj\Debug\net8.0\CarpetChallenge.dll
+C:\Users\Abdullah\source\repos\ConsoleApp1\CarpetChallenge\obj\Debug\net8.0\refint\CarpetChallenge.dll
+C:\Users\Abdullah\source\repos\ConsoleApp1\CarpetChallenge\obj\Debug\net8.0\CarpetChallenge.pdb
+C:\Users\Abdullah\source\repos\ConsoleApp1\CarpetChallenge\obj\Debug\net8.0\CarpetChallenge.genruntimeconfig.cache
+C:\Users\Abdullah\source\repos\ConsoleApp1\CarpetChallenge\obj\Debug\net8.0\ref\CarpetChallenge.dll
